@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SensorProximidad</string>
+    <string name="aplicaci_n_proximidad">APLICACIÓN PROXIMIDAD</string>
+    <string name="valor">VALOR</string>
+    <string name="button">Button</string>
+    <string name="string_button" />
+</resources>
